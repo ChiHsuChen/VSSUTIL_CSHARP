@@ -4,13 +4,11 @@ VSSUTIL_CSHARP
 Utility class written by C# to accomplish goals to get information within directly.
 
 Features:
-==============
 1. get latest version by file 
 2. get version number by file content
 3. check if local copy is consistent with a given version
 
 Notice: 
-=====================
 Features: 
 1. get latest version by file
 2. get version number by file content
