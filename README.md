@@ -1,7 +1,7 @@
 VSSUTIL_CSHARP
 ==============
 
-Utility class written by C# to get information within VSS DB directly.
+Utility class to get information within VSS DB.
 
 Features: <br/ >
 1. get latest version by file<br/ >
